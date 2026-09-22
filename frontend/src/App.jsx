@@ -1,3 +1,4 @@
+import './App.css'
 import { useState } from 'react'
 import LoginPage from './pages/LoginPage'
 import DashboardPage from './pages/DashboardPage'
